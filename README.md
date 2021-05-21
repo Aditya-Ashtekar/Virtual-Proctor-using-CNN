@@ -1,4 +1,7 @@
 # Virtual-Proctor-using-CNN
+
+## Collaborators: Aditya Ashtekar, Nitin Patil
+
 This is a college project which is a part of Deep Learning course at NYU.
 
 
