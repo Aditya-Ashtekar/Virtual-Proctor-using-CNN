@@ -2,7 +2,7 @@
 This is a college project which is a part of Deep Learning course at NYU.
 
 
-{DL_project.ipynb} has code for training of model.
+[{DL_project.ipynb}] has code for training of model.
 
 We have saved the model in fully_trained_model.pt.
 
